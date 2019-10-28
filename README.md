@@ -2,7 +2,7 @@ MongoDB docker
 --------------
 
 ```sh
-docker run --name mongo-0 -p 27017:27017 -d mongo:4.2.1
+docker run --name mongo-0 -p 27017:27017 mongo:4.2.1
 ```
 
 Clone & Compile vinnsl schema

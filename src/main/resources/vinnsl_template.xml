@@ -1,0 +1,30 @@
+<vinnsl>
+  <description>
+    <identifier></identifier>
+    <metadata>
+      <paradigm>Backpropagation Network</paradigm>
+      <name>New Backpropagration Network</name>
+      <description>New Backpropagration Network</description>
+      <version>
+        <major>100</major>
+        <minor>100</minor>
+      </version>
+    </metadata>
+    <creator>
+      <name>Vinnsl NN REST SERVICE</name>
+      <contact>a00908270</contact>
+    </creator>
+    <problemDomain>
+      <propagationType type="feedforward">
+        <learningType>supervised</learningType>
+      </propagationType>
+      <networkType>Backpropagation</networkType>
+      <problemType></problemType>
+    </problemDomain>
+    <endpoints>
+      <train>true</train>
+      <retrain>false</retrain>
+      <evaluate>false</evaluate>
+    </endpoints>
+  </description>
+</vinnsl>
